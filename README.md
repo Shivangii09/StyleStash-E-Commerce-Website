@@ -2,6 +2,9 @@
 
 Welcome to the E-Commerce Website project! This web application allows users to browse and purchase products online. Built with HTML, CSS, and JavaScript, it provides a user-friendly interface and dynamic features for an engaging shopping experience.
 
+## Preview
+You can view the live version of the site at [StyleStash](https://shivangii09.github.io/StyleStash-E-Commerce-Website/).
+
 ## Features
 
 - **Responsive Design:** Optimized for various devices and screen sizes.
